@@ -1,0 +1,15 @@
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\bin\Debug\net10.0\GachaSimulator.exe
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\bin\Debug\net10.0\GachaSimulator.deps.json
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\bin\Debug\net10.0\GachaSimulator.runtimeconfig.json
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\bin\Debug\net10.0\GachaSimulator.dll
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\bin\Debug\net10.0\GachaSimulator.pdb
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.AssemblyInfoInputs.cache
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.AssemblyInfo.cs
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.csproj.CoreCompileInputs.cache
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.sourcelink.json
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.dll
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\refint\GachaSimulator.dll
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.pdb
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\GachaSimulator.genruntimeconfig.cache
+C:\Users\eguillen\OneDrive\Documents\Neumont Quarters\Fall 2026\SoftDesign\Gacha_Simulator\GachaSimulator\obj\Debug\net10.0\ref\GachaSimulator.dll
